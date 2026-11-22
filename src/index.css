@@ -1,0 +1,4 @@
+/* Tailwind CSS: enables all utility classes */
+@import "tailwindcss";
+/* daisyUI: ready-made UI components (btn, card, input...) built on Tailwind */
+@plugin "daisyui";
